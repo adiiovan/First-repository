@@ -1,4 +1,3 @@
 #!/usr/bin/perl
 
-print "Hella Kitty\n";
-
+print "Hello Kitty\n";
